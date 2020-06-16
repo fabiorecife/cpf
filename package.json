@@ -1,6 +1,6 @@
 {
   "name": "@fabioalmeida/cpf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "cpf tools",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
     "jest": "^23.5.0"
   },
   "dependencies": {
-    "@fabioalmeida/modulo11": "^1.0.0"
+    "@fabioalmeida/modulo11": "^1.0.1"
   }
 }
